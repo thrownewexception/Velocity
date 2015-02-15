@@ -1,0 +1,5 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\velocity_engine\velocity\velocity\bin\Debug\velocity.dll
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\velocity_engine\velocity\velocity\bin\Debug\velocity.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\velocity_engine\velocity\velocity\obj\Debug\velocity.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\velocity_engine\velocity\velocity\obj\Debug\velocity.dll
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\velocity_engine\velocity\velocity\obj\Debug\velocity.pdb
