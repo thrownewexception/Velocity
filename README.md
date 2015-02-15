@@ -11,3 +11,9 @@ A pure c# .net browser engine built for speed and security.
 ### Contributing
   - Just simply make a pull request and or create issues...
   - Please comment your code to make it easier to read...
+
+
+
+### Current design markup
+
+![Image of Markup](https://raw.githubusercontent.com/PorterX2Pro/Velocity/master/velocity/velocitymarkup.png)
