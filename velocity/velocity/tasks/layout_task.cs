@@ -12,13 +12,21 @@ namespace velocity.tasks
     //Handles the calculation of document layout based on the viewport then sends the result to a paint_task
     internal class layout_task
     {
+        /// <summary>
+        /// A reference to the AngleSharp document object
+        /// </summary>
         private IDocument document_object;
+
+        
 
         public layout_task(IDocument document_ref)
         {
             document_object = document_ref;
         }
 
-
+        public async Task do_layout()
+        {
+            
+        }
     }
 }

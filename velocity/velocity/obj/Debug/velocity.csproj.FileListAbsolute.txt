@@ -11,6 +11,8 @@ C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\bin\Debug\OpenTK.GLCon
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\bin\Debug\OpenTK.pdb
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\bin\Debug\OpenTK.xml
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\bin\Debug\OpenTK.GLControl.xml
-C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\obj\Debug\velocity.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\obj\Debug\velocity.dll
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\obj\Debug\velocity.pdb
+C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\bin\Debug\AngleSharp.dll
+C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\bin\Debug\AngleSharp.xml
+C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity\obj\Debug\velocity.csprojResolveAssemblyReference.cache
