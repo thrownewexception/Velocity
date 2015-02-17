@@ -56,15 +56,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="drawable_elements\block_element.cs" />
-    <Compile Include="drawable_elements\drawable.cs" />
-    <Compile Include="paint_context.cs" />
-    <Compile Include="paint_layer.cs" />
-    <Compile Include="tasks\layout_task.cs" />
-    <Compile Include="tasks\paint_task.cs" />
-    <Compile Include="WebView.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
+    <Compile Include="core\browser.cs" />
+    <Compile Include="core\tasks\layout_task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
