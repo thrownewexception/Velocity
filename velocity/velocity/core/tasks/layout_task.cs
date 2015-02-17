@@ -9,5 +9,9 @@ namespace velocity.core.tasks
     //Unexposed class to calculate the layout of a frame based on the viewport (browser control)
     internal class layout_task
     {
+        public static void do_layout(browser core_ref)
+        {
+            
+        }
     }
 }

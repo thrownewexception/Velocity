@@ -12,13 +12,13 @@ namespace velocity_test
 {
     public partial class main : Form
     {
-        private velocity.WebView webView;
+        
 
         public main()
         {
             InitializeComponent();
-            webView = new velocity.WebView() { Dock = DockStyle.Fill };
-            this.Controls.Add(webView);
+            velocity.core.browser b = new velocity.core.browser();
+            b.NavigateToHtml(System.IO.File.ReadAllText("../../../tests_source/basic_helloworld/helloworld.html"));
         }
     }
 }

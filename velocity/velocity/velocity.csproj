@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="core\browser.cs" />
     <Compile Include="core\tasks\layout_task.cs" />
+    <Compile Include="core\tasks\paint_task.cs" />
+    <Compile Include="core\utilities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -15,3 +15,5 @@ C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity_test\bin\Debug\OpenTK.
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity_test\bin\Debug\OpenTK.GLControl.xml
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity_test\obj\Debug\velocity_test.exe
 C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity_test\obj\Debug\velocity_test.pdb
+C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity_test\bin\Debug\AngleSharp.dll
+C:\Users\Nick\Documents\GitHub\Velocity\velocity\velocity_test\bin\Debug\AngleSharp.xml
