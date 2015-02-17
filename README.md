@@ -1,4 +1,6 @@
 # Velocity
+
+[![Join the chat at https://gitter.im/PorterX2Pro/Velocity](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PorterX2Pro/Velocity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A pure c# .net browser engine built for speed and security.
   - Written in c# on the .net platform
   - Utilizes OpenGL for rendering (OpenTK library)
